@@ -1,8 +1,8 @@
 import { getByTitle } from "@testing-library/react";
 
-const API_KEY = '97c3caf7fa0259fe22206b7636187d16';
+const API_KEY = '6b7bad8a761c4750c8d753c9b123a450';
 const API_BASE = 'https://api.themoviedb.org/3';
-/**/ 
+
 
 const basicFetch = async(endpoint) =>
 //essa função vai fazer a buscar e retornar o resultado
